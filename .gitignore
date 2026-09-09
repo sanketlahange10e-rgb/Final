@@ -1,0 +1,5 @@
+*.graphml
+*.geojson
+*.exe
+__pycache__/
+*.pyc

@@ -1,0 +1,14 @@
+# Requirements for the app and its modules
+customtkinter
+matplotlib
+networkx
+numpy
+osmnx
+ortools
+pandas
+Pillow
+scikit-learn
+shapely
+tkintermapview
+geopy
+bcrypt

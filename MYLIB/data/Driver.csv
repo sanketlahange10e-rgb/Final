@@ -1,0 +1,6 @@
+driver_id,name,username,password,phone,license_no,bus_assigned
+Drive00001,Rahul Sharma,rahulsharma123,$2b$12$xIBb6QQZgbQlE4HBGOKPt.BvTuwbSx7Ux5r1q1997trLoYkE5OEHS,9876543210,MH12AB1234,Bus 1
+Drive00002,Amit Patil,amitpatil123,$2b$12$7nISPYR3CUra/y1G1ix.gOdXzPZj9LuhmcIJe1twu.KUoU2G.EnbO,9123456780,MH12CD5678,Bus 2
+Drive00003,Sneha Joshi,snehajoshi123,$2b$12$T4WOeM6j/eHtayykuSblSeudj67c2z7DlG8xqasbi1LtKV1Dq2T26,9988776655,MH12EF9012,Bus 3
+Drive00004,Vikas More,vikasmore123,$2b$12$QMmDrOn3f0fUpDJKX4.aoeyKgVET6lvvI64eqSbPy3Y6/E14Geuh.,9090909090,MH12GH3456,Bus 4
+Drive00005,Anil Pawar,anilpawar123,$2b$12$WDT6UpVeZJ.iGhTT1r1Aju9ARIlF8DgG/hvkzx4TNjefO4Ix71dJ6,9898989898,MH12IJ7890,Bus 5
